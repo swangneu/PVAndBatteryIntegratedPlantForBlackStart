@@ -2,27 +2,27 @@
 
 ## Overview
 
-This repository contains a MATLAB/Simulink simulation model for a PV- and battery-integrated inverter plant designed to study black-start and grid-forming operation in inverter-based power systems.
+This repository contains a MATLAB/Simulink simulation model for a PV and battery integrated inverter plant designed to study black start and grid-forming operation in inverter-based power systems.
 
-The model focuses on demonstrating how grid-forming control strategies enable autonomous voltage and frequency establishment in the absence of a stiff grid, while coordinating power sharing between photovoltaic (PV) generation and battery energy storage systems (BESS).
+The model demonstrates how grid-forming control strategies autonomously establish and regulate voltage and frequency during black start operation, under both islanded conditions and grid-connected scenarios, while ensuring coordinated power sharing between photovoltaic generation and battery energy storage systems.
 
 The simulation is intended for research and educational purposes, particularly in the context of:
 
-Grid-forming inverters (GFM)
+- Grid-forming inverters
 
-Black-start capability of inverter-based resources (IBRs)
+- Black start capability of inverter-based resources
 
-Renewable-storage hybrid plants
+- Renewable and storage hybrid plants
 
-Microgrid and weak-grid operation
+- Microgrid operation
 
 ## Requirements
 
-MATLAB R2024b or later
+- MATLAB R2024b or later
 
-Simulink
+- Simulink
 
-Simscape Electrical
+- Simscape Electrical
 
 ## Disclaimer
 
