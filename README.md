@@ -1,5 +1,7 @@
 # PVAndBatteryIntegratedPlantForBlackStart
 
+**Version 2.0**
+
 ## Overview
 
 This repository contains a MATLAB/Simulink simulation model for a PV and battery integrated inverter plant designed to study black start and grid-forming operation in inverter-based power systems.
@@ -15,6 +17,16 @@ The simulation is intended for research and educational purposes, particularly i
 - Renewable and storage hybrid plants
 
 - Microgrid operation
+
+## Version History
+
+### Version 2.0 (current)
+
+The model has been rebuilt using **native Simscape Electrical** components. This is the active, maintained version located in the repository root: `PVAndBatteryIntegratedPlantForBlackStart.slx`.
+
+### Version 1.0 (legacy)
+
+The original model was built using **Specialized Power Systems (SPS)**. It has been preserved for reference under `legacy/PVAndBatteryIntegratedPlantForBlackStart_SPS.slx` and is no longer actively maintained.
 
 ## Requirements
 
